@@ -4,5 +4,7 @@ public class first {
 	public static void main(String a[])
     {  
   	  System.out.println("hello");
+  	  int ae=10;
+  	  
     }
 }
